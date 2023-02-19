@@ -1,0 +1,34 @@
+.StoreItem {
+    margin: auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    border: 2px solid grey;
+    background-color: rgb(230, 222, 222);
+    width: 60%;
+}
+
+.StoreItem li {
+    list-style: none;
+    font-size: 1rem;
+}
+
+.StoreItem img {
+    mix-blend-mode: multiply;
+    width: 200px;
+}
+
+.StoreItem div {
+    display: inline-block;
+}
+.StoreItem-buttons {
+    width: 100%;
+    display: inline-block;
+}
+.StoreItem button {
+    background-color: hotpink;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px;
+}

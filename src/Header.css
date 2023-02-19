@@ -1,0 +1,27 @@
+.Header {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(84, 199, 199);
+    color: #282c34;
+}
+.Header div {
+    display: inline-block;
+}
+
+.Header-left {
+    text-align: left;
+    width: 50%;
+}
+
+.Header-right {
+    text-align: right;
+    width: 50%;
+}
+.Header-right p {
+    padding-right: 25%;
+}
+.Header-left h1 {
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 25%;
+}
